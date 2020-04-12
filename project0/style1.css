@@ -1,0 +1,58 @@
+@media (max-width: 500px) {
+  .study {
+    display: none;
+  }
+}
+h1 {
+  color: black;
+  text-align: center;
+}
+
+h2 {
+  color: #14071a;
+  text-align: center;
+}
+
+h3 {
+  text-align: left;
+}
+
+p,
+h3 {
+  padding: 10px;
+  font-size: large;
+}
+
+ol, ul {
+  font-size: large;
+}
+
+div {
+  background-color: bisque;
+}
+
+table,
+th,
+td {
+  border: 2px solid black;
+  border-collapse: collapse;
+  font-size: large;
+}
+
+th,
+td {
+  padding: 10px;
+  text-align: left;
+}
+
+th {
+  text-align: center;
+  background-color: #cfad83;
+}
+
+img {
+  float: left;
+  border: 1px solid black;
+}
+
+/*# sourceMappingURL=style1.css.map */
